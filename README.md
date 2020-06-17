@@ -1,0 +1,2 @@
+# FlutterWithTuyaSDK
+Just an example 
